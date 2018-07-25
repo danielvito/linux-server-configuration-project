@@ -47,8 +47,7 @@ This project makes part of the [Full-Stack Web Nanodegree Program](https://udaci
 
 * List of any third-party resources you made use of to complete this project:
   * No third-party resource is used.
-* Locate the SSH key you created for the grader user: [linuxCourse](linuxCourse)
-  * passphrase: password
+* Locate the SSH key you created for the grader user: /home/grader/.ssh/authorized_keys
 
 ## License
 
